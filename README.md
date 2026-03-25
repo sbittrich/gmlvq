@@ -68,4 +68,5 @@ Additional references on GMLVQ:
 - Bunte, K., Schneider, P., Hammer, B., Schleif, F. M., Villmann, T., & Biehl, M. (2012). Limited rank matrix learning, discriminative dimension reduction and visualization. Neural Networks, 26, 159-173. [link](https://core.ac.uk/download/pdf/148191531.pdf)
 - Kästner, M., Hammer, B., Biehl, M., & Villmann, T. (2012). Functional relevance learning in generalized learning vector quantization. Neurocomputing, 90, 85-95. [link](https://www.rug.nl/research/portal/files/2454313/2012NeurocompKastner.pdf)
 - Hammer, B., & Villmann, T. (2002). Generalized relevance learning vector quantization. Neural Networks, 15(8-9), 1059-1068. [link](https://www.researchgate.net/profile/Leonard_Goeirmanto/post/How_can_I_apply_generalized_learning_vector_quantization_GLVQ_for_cluster_unlabel_data/attachment/59d639d7c49f478072ea647b/AS:273721464426496@1442271690991/download/Neural+Networks%2C+Vol.15+Is.8+p.1059-1068.pdf)
+- Schneider, P., Biehl, M., & Hammer, B. (2009). Adaptive relevance matrices in learning vector quantization. Neural computation, 21(12), 3532-3561. [link](https://doi.org/10.1162/neco.2009.11-08-908)
 
